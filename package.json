@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "description": "My web app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "redis",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "user",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "redis": "^4.0.4"
+  }
+}
+
